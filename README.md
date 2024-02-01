@@ -9,6 +9,7 @@ SHIPS ADDED:
 - Makar pattern
 - Ester pattern*
 - Ceudar pattern
+- Maugen pattern
 - Sinaris pattern*
 - Ket pattern*
 - Onura pattern
