@@ -8,6 +8,7 @@ Bug fixes (that I remember):
 - Fixed frigate wings bought from markets as ships with no upkeep costs.
 - Sinaris stats.
 - Covenant weapon appearances at markets (hopefully).
+- Removed Nexerelin and AOTD dependency.
 
 
 0.1.0
