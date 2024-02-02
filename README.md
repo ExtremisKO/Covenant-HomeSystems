@@ -18,9 +18,10 @@ SHIPS ADDED:
 WEAPONS ADDED:
 - Gon pulse laser (small pd)*
 - Melusean (medium energy)*
-- Cheru pattern Tyrant (large energy)
-- Figher/LPC weapons (less powerful Melusean, Fuel Rod cannon)
-Built-in weapons* (beams and missiles) for various vessels, the most powerful part of the ships.
+- Cheru pattern Tyrant (large energy).
+- Figher/LPC weapons (less powerful Melusean, Fuel Rod cannon).
+- Plasma torpedos (S/M/L).
+- Siege lances (balance pending).
 LPCs:
 - Space Banshee
 - Seraph
