@@ -15,6 +15,7 @@ SHIPS ADDED:
 - Onura pattern
 - Varric pattern
 - ... and 3 absolute behemoths ||(Vindraon pattern, Kerel pattern*, Yerus pattern)||
+
 WEAPONS ADDED:
 - Gon pulse laser (small pd)*
 - Melusean (medium energy)*
@@ -22,10 +23,12 @@ WEAPONS ADDED:
 - Figher/LPC weapons (less powerful Melusean, Fuel Rod cannon).
 - Plasma torpedos (S/M/L).
 - Siege lances (balance pending).
+
 LPCs:
 - Space Banshee
 - Seraph
 - Frigates (I hope they work)?!
+
 HULLMODs:
 - Shield with code taken from Star Wars mod (I hope that's ok)
 - Hullmods from original UNSC mod.
